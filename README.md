@@ -1,8 +1,8 @@
  ## Tools Installed
 
-* **Cursor IDE
-* **Claude Code Add-on
-* **Codex Add-on
+* Cursor IDE
+* Claude Code Add-on
+* Codex Add-on
 
 ## Steps Completed
 
